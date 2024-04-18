@@ -1,4 +1,4 @@
-package main
+package users-jsonplaceholder
 
 type User struct {
 	Id       int32  `json:"id"`
